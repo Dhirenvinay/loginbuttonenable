@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "58042571540",
+    "project_id": "techassignment-e9df2",
+    "storage_bucket": "techassignment-e9df2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58042571540:android:9fa0c475697b706a200001",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58042571540-l4qcs2egmqs95b915k6724tgs63lrnq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJzOLZex7mMOdzkEkl-lON-p6ACl8ceMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58042571540-l4qcs2egmqs95b915k6724tgs63lrnq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
